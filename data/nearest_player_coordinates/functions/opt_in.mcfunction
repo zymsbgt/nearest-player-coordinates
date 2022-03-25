@@ -1,0 +1,2 @@
+scoreboard players set @s npc.toggle 0
+tellraw @s ["",{"text":"You now "},{"text":"will see","color":"green"},{"text":" other's coordinates. Others "},{"text":"will be able","color":"green"},{"text":" to see your coordinates, too."}]

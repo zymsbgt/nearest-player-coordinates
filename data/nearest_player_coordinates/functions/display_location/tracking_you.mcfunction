@@ -1,0 +1,1 @@
+title @s actionbar ["",{"text":"You'll soon be able to view who's tracking you from here! "},{"text":"(/trigger npc.priority)","color":"blue"}]

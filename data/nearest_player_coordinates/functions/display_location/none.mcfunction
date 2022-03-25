@@ -1,0 +1,1 @@
+title @s actionbar ["",{"text":"Your location is being shared with others. Type "},{"text":"/trigger npc.information","color":"aqua"},{"text":" for more info"}]
